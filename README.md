@@ -7,5 +7,5 @@ A cada novo palpite, se errado, ela te diz se o palpite foi maior ou menor que o
 ### Boa sorte!
 
 
-[link para jogar =)](
+[link para jogar :)](
  https://paulahemsi.github.io/madame-yoda/)
